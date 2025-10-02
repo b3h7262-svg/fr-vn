@@ -13,7 +13,7 @@
     </message>
     <message>
       <source>dark</source>
-      <translation>sombre</translation>
+      <translation>tối</translation>
     </message>
     <message>
       <source>Basic</source>
